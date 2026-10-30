@@ -46,5 +46,6 @@
 - Ключі ніколи не просити в чаті — лише через налаштування середовища.
 
 ## Конектори claude.ai
-- Replit — сайти користувача: швидкі правки й нові сторінки через конектор (витрачає кредити Replit Agent). Для глибокої роботи (аудит, SEO, переписування текстів) — сайт синхронізується з GitHub, правлю код напряму, користувач тисне «Pull» і «Redeploy» в Replit.
+- Replit (підключено) — сайти користувача. Код читаю напряму (list_app_files, read_app_file); правки — через Replit Agent (update_app_using_prompt, витрачає кредити Replit), промпт пишу точний, з конкретними файлами й текстами; публікація — publish_app лише з підтвердження користувача. Для великих переробок — синхронізація з GitHub.
+  Сайти: Kids Connect Pediatrics (kids-connect.replit.app), Phytoneering (phytoneering.replit.app), GP Chat (gp-chat.replit.app), Plener`26 (plener.replit.app), Allergy Danson (allergy.medconnekt.com), Asset Manager (службовий), Image Design (не опубліковано).
 - PubMed, Clinical Trials — перевірка медичних тверджень перед видачею.
