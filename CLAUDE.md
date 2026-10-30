@@ -47,5 +47,5 @@
 
 ## Конектори claude.ai
 - Replit (підключено) — сайти користувача. Код читаю напряму (list_app_files, read_app_file); правки — через Replit Agent (update_app_using_prompt, витрачає кредити Replit), промпт пишу точний, з конкретними файлами й текстами; публікація — publish_app лише з підтвердження користувача. Для великих переробок — синхронізація з GitHub.
-  Сайти: Kids Connect Pediatrics (kids-connect.replit.app), Phytoneering (phytoneering.replit.app), GP Chat (gp-chat.replit.app), Plener`26 (plener.replit.app), Allergy Danson (allergy.medconnekt.com), Asset Manager (службовий), Image Design (не опубліковано).
+  Сайти: Kids Connect Pediatrics (kids-connect.replit.app), Phytoneering (phytoneering.replit.app → підключається phytoneering.medconnekt.com), GP-чат — подія (gp-chat.medconnekt.com; дубль gp-chat.replit.app → потрібне перенаправлення), Plener`26 — подія завершена (домен клієнта + plener.replit.app; не чіпати), Allergy Danson (allergy.medconnekt.com), Asset Manager (службовий), Image Design (не опубліковано).
 - PubMed, Clinical Trials — перевірка медичних тверджень перед видачею.
