@@ -53,3 +53,6 @@
   Сайти: Kids Connect Pediatrics (kids-connect.replit.app), Phytoneering (phytoneering.replit.app → підключається phytoneering.medconnekt.com), GP-чат (GP ЧАТ 2026) — конференція АСМУ, 10–11 грудня 2026, Львів, BANKHOTEL + онлайн (gp-chat.medconnekt.com; дубль gp-chat.replit.app → потрібне перенаправлення), Plener`26 — подія завершена (домен клієнта + plener.replit.app; не чіпати), Allergy Danson (allergy.medconnekt.com), Asset Manager (службовий), Image Design (не опубліковано).
 - Microsoft 365 (підключено, робоча пошта Outlook користувача): пошта, календар, OneDrive/SharePoint, Teams. За замовчуванням створюю чернетки; надсилаю листи, повідомлення в Teams, видаляю чи змінюю події лише після явного «так» користувача на конкретний текст і адресатів. Масові розсилки лікарям — не з робочої пошти, а через сервіс розсилок.
 - PubMed, Clinical Trials — перевірка медичних тверджень перед видачею.
+
+## Поточні задачі
+- Домашнє завдання з Claude Code — `HOMEWORK.md` (дедлайн 3.11.2026, 14:00 Київ). На початку сесії, якщо доречно, нагадай статус. Помилки Claude по ходу дописуй у розділ «де Claude помилився».
